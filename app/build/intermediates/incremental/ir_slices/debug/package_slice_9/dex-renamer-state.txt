@@ -1,0 +1,4 @@
+#Fri Jun 21 11:19:24 IST 2019
+base.0=/home/test/Downloads/android-3D-model-viewer-master/app/build/intermediates/transforms/dexMerger/debug/66
+path.0=classes.dex
+renamed.0=classes.dex
